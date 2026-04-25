@@ -125,4 +125,45 @@
 //     alert(a / b);
 // }
 
+// 9-Masala
 
+let n = +prompt("20-69 gacha son kiriting:");
+
+let on = Math.floor(n / 10); 
+let bir = n % 10;            
+let natija = "";         
+
+
+if (on === 2) { natija = "Yigirma"; }
+else if (on === 3)
+     { natija = "O'ttiz"; }
+else if (on === 4)
+     { natija = "Qirq"; }
+else if (on === 5) 
+    { natija = "Ellik"; }
+else if (on === 6) 
+    { natija = "Oltmish"; }
+
+if (bir === 1) { natija += " bir"; }
+else if (bir === 2) 
+    { natija += " ikki"; }
+else if (bir === 3)
+     { natija += " uch"; }
+else if (bir === 4) 
+    { natija += " to'rt"; }
+else if (bir === 5)
+     { natija += " besh"; }
+else if (bir === 6) 
+    { natija += " olti"; }
+else if (bir === 7) 
+    { natija += " yetti"; }
+else if (bir === 8) 
+    { natija += " sakkiz"; }
+else if (bir === 9) 
+    { natija += " to'qqiz"; }
+
+if (n >= 20 && n <= 69) {
+    alert(natija + " yosh");
+} else {
+    alert("Faqat 20-69 oralig'ida kiriting!");
+}
