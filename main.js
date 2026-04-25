@@ -60,3 +60,13 @@
 // }else if(b === c, c !== a){
 //     console.log("Tartib raqam", a);
 // }
+
+// 5-Masala;
+
+// let x = prompt("x sonini kiriting");
+
+// if (x < -2 || x > 2) {
+//     console.log(x * 2);
+// }else{
+//     console.log(x * -3);
+// }
