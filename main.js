@@ -86,3 +86,28 @@
 // }else{
 //     alert(0)
 // }
+
+// 7-Masala;
+
+// let day = +prompt("hafta kunini kiriting");
+
+// if(day === 1){
+//     alert("Dushanba")
+// }else if(day === 2){
+//     alert("Seshanba")
+// }else if( day ===3 ){
+//     alert("Chorshanba")
+// }else if( day === 4){
+//     alert("Payshanba")
+// }else if(day === 5){
+//     alert("Juma")
+// }else if(day === 6){
+//     alert("Shanba")
+// }else if(day === 7){
+//     alert("Yakshanba")
+// }else{
+//     alert("Hafta kunlarini kiriting")
+// }
+
+// 8-Masala;
+
