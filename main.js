@@ -46,3 +46,17 @@
 // let kichik = Math.min(a, b, c);
 
 // console.log("Katta sonlar soni",m, "Kichik sonlar soni", kichik);
+
+// 4-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
+
+// if ( a === b && b !== c) {
+//     console.log("Tartib raqam c", c);
+// } else if(a === c && c !== b){
+//     console.log("Tartib raqam", b);
+// }else if(b === c, c !== a){
+//     console.log("Tartib raqam", a);
+// }
