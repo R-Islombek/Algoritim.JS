@@ -111,3 +111,18 @@
 
 // 8-Masala;
 
+// let a = 10;
+// let b = 20;
+// let result = +prompt("Son kiriting")
+
+// if (result === 1) {
+//      alert(a + b);
+// } else if(result === 2){
+//     alert(a - b);
+// }else if(result ===3){
+//     alert(a * b)
+// }else if( result === 4){
+//     alert(a / b);
+// }
+
+
