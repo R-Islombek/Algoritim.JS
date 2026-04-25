@@ -70,3 +70,19 @@
 // }else{
 //     console.log(x * -3);
 // }
+
+// 6-Masala;
+
+// let number = prompt("son kiriting");
+
+// if (number % 2 === 0 && number > 0) {
+//     alert("musbat juft")
+// } else if(number % 2 !== 0 && number > 0 ){
+//     alert("musbat toq")
+// }else if(number % 2 === 0 && number < 0){
+//     alert("manfiy juft")
+// }else if(number % 2 !== 0 && number > 0){
+//     alert("manfiy toq")
+// }else{
+//     alert(0)
+// }
