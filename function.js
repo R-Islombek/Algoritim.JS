@@ -23,4 +23,18 @@
 // }
 // console.log(triangle(a));
 
+// 3-Masala;
 
+
+// let n = +prompt("n sonini kiriting");
+
+// function sum(n){
+//     let result = 0
+//     for(let i = 0; i <= n; i++){
+//           result += i
+//     }
+
+//     console.log(result);
+    
+// }
+// sum(n)
