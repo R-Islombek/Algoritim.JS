@@ -224,3 +224,14 @@
 // let kichik = Math.min(a, b);
 
 // console.log(kichik);
+
+// 6-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// let katta = Math.max(a, b);
+// let kichik = Math.min(a, b);
+
+// console.log("Katta sonlar", katta, "Kichik sonlar", kichik);
+
