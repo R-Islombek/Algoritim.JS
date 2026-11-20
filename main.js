@@ -76,3 +76,19 @@
 // }else{
 //     alert(-3 * x)
 // }
+
+// 6-Masala;
+
+// let number = prompt("raqam kiriting");
+
+// if( number > 0 && number % 2 !== 0){
+//         alert("Musbat toq")
+// }else if( number > 0 && number % 2 === 0){
+//        alert("Musbat juft")
+// }else if(number = 0){
+//     alert(0)
+// }else if(number < 0 && number % 2 === 0){
+//     alert("Musbat juft son")
+// }else if(number < 0 && number % 2 !==0){
+//     alert("Manfiy toq")
+// }
