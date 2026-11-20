@@ -165,3 +165,17 @@
 // }else{
 //     alert(a);
 // }
+
+// 2-Masala;
+
+// let number = prompt("son kiriting");
+
+// if(number > 0){
+//     alert(number + 1);
+// }else if(number < 0){
+//     alert(number - 2)
+// }else if(number === 0){
+//     alert(10)
+// }else{
+//     alert("Natural son emas")
+// }
