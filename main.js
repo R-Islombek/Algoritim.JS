@@ -92,3 +92,34 @@
 // }else if(number < 0 && number % 2 !==0){
 //     alert("Manfiy toq")
 // }
+
+// 7-Masala;
+
+let day = prompt("Hafta kunlarini kiriting");
+
+
+switch (day) {
+    case 1:
+        alert("Dushanba")
+        break;
+    case 2:
+        alert("Seshanba")
+        break;
+    case 3: 
+        alert("Chorshanba")
+        break;
+    case 4: 
+        alert("Payshanba");
+        break;
+    case 5: 
+        alert("Juma");
+        break;
+    case 6: 
+        alert("shanba")
+        break;
+    case 7: 
+        alert("Yakshanba")                        
+    default:
+        alert("Hafta kunlarini kiriting");
+        break;
+}
