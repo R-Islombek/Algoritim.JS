@@ -150,3 +150,18 @@
 //         alert("1 dan 4 gacha bo'gan son kiriting")
 //         break;
 // }
+
+// 9-Masala;
+
+
+
+
+// 1-Masala;
+
+// let a = prompt("a sonini kiriting");
+
+// if(a > 0){
+//     alert(a + 1);
+// }else{
+//     alert(a);
+// }
