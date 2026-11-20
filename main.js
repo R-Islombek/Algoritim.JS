@@ -179,3 +179,31 @@
 // }else{
 //     alert("Natural son emas")
 // }
+
+// 3-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
+
+// let musbat = 0;
+// let manfiy = 0;
+
+// if(a > 0){
+//     musbat++;
+// }
+// if(a < 0){
+//     manfiy++
+// }
+// if(b > 0){
+//     musbat++;
+// }
+// if(b < 0){
+//     alert(manfiy++)
+// }
+// if(c > 0){
+//     alert(musbat++);
+// }
+// if(c < 0){
+//     alert(manfiy++)
+// }
