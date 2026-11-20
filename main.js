@@ -50,3 +50,19 @@
 // let orta = katta - kichik;
 
 // console.log("katta", katta, "kichik"= kichik);
+
+// 4-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
+
+// if( a === b && b !== c){
+//     alert("Tartib raqam c ")
+// }else if( a === c && a !== b ){
+//     alert("Tartib raqam b")
+// }else if(b === c && a !== c){
+//     alert("tartib raqam c")
+// }else{
+//     alert("Tartib raqam yo'q")
+// }
