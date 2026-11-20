@@ -207,3 +207,11 @@
 // if(c < 0){
 //     alert(manfiy++)
 // }
+
+// if4 ) 
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// let katta = Math.max(a, b);
+// console.log(katta);
