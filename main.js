@@ -38,3 +38,15 @@
 // }
 
 // console.log("Musbat sonlar soni, =", musbat, "Manfiy sonlar soni");
+
+// 3-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
+
+// let katta = Math.max(a, b);
+// let kichik = Math.min(a, b);
+// let orta = katta - kichik;
+
+// console.log("katta", katta, "kichik"= kichik);
