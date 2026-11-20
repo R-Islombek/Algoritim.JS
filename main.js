@@ -215,3 +215,12 @@
 
 // let katta = Math.max(a, b);
 // console.log(katta);
+
+// if5;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// let kichik = Math.min(a, b);
+
+// console.log(kichik);
