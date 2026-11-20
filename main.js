@@ -95,31 +95,58 @@
 
 // 7-Masala;
 
-let day = prompt("Hafta kunlarini kiriting");
+// let day = prompt("Hafta kunlarini kiriting");
 
 
-switch (day) {
-    case 1:
-        alert("Dushanba")
-        break;
-    case 2:
-        alert("Seshanba")
-        break;
-    case 3: 
-        alert("Chorshanba")
-        break;
-    case 4: 
-        alert("Payshanba");
-        break;
-    case 5: 
-        alert("Juma");
-        break;
-    case 6: 
-        alert("shanba")
-        break;
-    case 7: 
-        alert("Yakshanba")                        
-    default:
-        alert("Hafta kunlarini kiriting");
-        break;
-}
+// switch (day) {
+//     case 1:
+//         alert("Dushanba")
+//         break;
+//     case 2:
+//         alert("Seshanba")
+//         break;
+//     case 3: 
+//         alert("Chorshanba")
+//         break;
+//     case 4: 
+//         alert("Payshanba");
+//         break;
+//     case 5: 
+//         alert("Juma");
+//         break;
+//     case 6: 
+//         alert("shanba")
+//         break;
+//     case 7: 
+//         alert("Yakshanba")                        
+//     default:
+//         alert("Hafta kunlarini kiriting");
+//         break;
+// }
+
+// 8-Masala;
+
+// let day = prompt("son kiriiting");
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+
+// switch (day) {
+//     case 1:
+//         alert(a + b)
+//         break;
+//     case 2:
+//         alert(a - b);
+//         break;
+//     case 3:
+//         alert(a / b);
+//         break;
+//     case 4: 
+//         alert(a * b);
+//         break;           
+
+//     default:
+//         alert("1 dan 4 gacha bo'gan son kiriting")
+//         break;
+// }
