@@ -259,4 +259,16 @@
 //     console.log(a, b);
 // }
 
+// 9-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// if( a !== b){
+//     console.log(Math.max(a, b));
+// }if( a === b){
+//     console.log(0);
+// }else{
+//     console.log(a, b);
+// }
 
