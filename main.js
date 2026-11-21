@@ -245,4 +245,18 @@
 
 // console.log("Katta son", katta, "Kichik son", kichik);
 
+// 8-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+
+// if( a !== b){
+//     console.log(a + b);
+// }else if( a === b){
+//     console.log(0);
+// }else{
+//     console.log(a, b);
+// }
+
 
