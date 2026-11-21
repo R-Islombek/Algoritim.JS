@@ -305,4 +305,15 @@
 // let engKatta = katta + orta;
 // console.log(engKatta);
 
+// 13-Masala;
 
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
+
+
+// if( a < b && b < c){
+//     alert( 2 * a * b * c);
+// }else{
+//     alert( -a, -b, -c)
+// }
