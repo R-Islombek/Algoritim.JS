@@ -272,3 +272,13 @@
 //     console.log(a, b);
 // }
 
+// 10-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
+
+// let c = Math.max(a, b, c);
+
+// console.log(c);
+
