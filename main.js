@@ -235,3 +235,14 @@
 
 // console.log("Katta sonlar", katta, "Kichik sonlar", kichik);
 
+// 7-Masala;
+
+// let A = a;
+// let B = b;
+
+// let katta = B;
+// let kichik = A;
+
+// console.log("Katta son", katta, "Kichik son", kichik);
+
+
