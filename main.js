@@ -292,4 +292,17 @@
 
 // console.log(kichik);
 
+// 12-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
+
+// let katta = Math.max(a, b, c);
+// let kichik = Math.min(a, b, c);
+// let orta = katta + kichik + (a + b + c);
+
+// let engKatta = katta + orta;
+// console.log(engKatta);
+
 
