@@ -330,3 +330,20 @@
 // }else{
 //     alert(-(a, b, c))
 // }
+
+// 15-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
+// let d = prompt("d sonini kiriting");
+
+// if(a === b && b === c && c !==d){
+//     alert("Tartib raqam 4")
+// }else if(a === b && b !== c && c === d){
+//     alert("Tartib raqam c")
+// }else if( a !== b && a === c && c === d){
+//     alert("Tartib raqam b")
+// }else if(a !== b && b === c && c ===d ){
+//     alert("Tartib raqam a")
+// }
